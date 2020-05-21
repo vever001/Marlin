@@ -484,9 +484,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // P3Steel Psique
-  #define DEFAULT_Kp 37.09
-  #define DEFAULT_Ki 4.82
-  #define DEFAULT_Kd 71.40
+  #define DEFAULT_Kp 36.67
+  #define DEFAULT_Ki 4.71
+  #define DEFAULT_Kd 71.34
  
   // Ultimaker
   //#define DEFAULT_Kp 22.2
